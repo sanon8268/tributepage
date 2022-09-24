@@ -1,0 +1,353 @@
+@media only screen and (max-width: 550px) {
+
+    #top1 h2 {
+
+        top: 5px;
+        font-size: 32px;
+
+
+    }
+
+    #top1 h4 {
+        font-size: 26px;
+        bottom: 18px;
+
+    }
+
+    #top1 img {
+        display: block;
+        width: 185px;
+        top: 20px;
+    }
+
+    #top1 .p1 {
+        font-size: 19px;
+        padding-top: 280px;
+        padding-right: 52px;
+        padding-bottom: 29px;
+        padding-left: 52px;
+        bottom: 186px;
+        margin-left: 26px;
+        margin-right: 26px;
+
+    }
+
+    #top1 .p2 {
+        color: white;
+
+        font-size: 1.0rem;
+
+        bottom: 180px;
+    }
+
+    #top1::before {
+        height: 690px;
+    }
+
+    #top1 button {
+        bottom: 50px;
+    }
+
+    .about h1 {
+
+        top: 120px;
+        font-weight: 500;
+        font-size: 27px;
+    }
+
+    .about p {
+
+        top: 168px;
+        font-size: 1.0rem;
+        line-height: 25px;
+
+    }
+
+    .about {
+        height: 1118px;
+    }
+
+    .aboutlife h1 {
+        font-weight: 500;
+        font-size: 27px;
+        top: 126px;
+
+    }
+
+    .aboutlife p {
+        top: 168px;
+        font-size: 1.0rem;
+        line-height: 25px;
+    }
+
+    .aboutlife {
+        height: 1881px;
+    }
+
+    .awards h1 {
+        font-weight: 500;
+        font-size: 27px;
+    }
+
+    .awards p {
+        top: 42px;
+        font-size: 1.0rem;
+        line-height: 25px;
+    }
+
+    .awards {
+        height: 2614px;
+    }
+
+    .table1 {
+        width: 50%;
+    }
+
+    .prsnllife h1 {
+        font-weight: 500;
+        font-size: 27px;
+    }
+
+    .prsnllife p {
+        top: 42px;
+        font-size: 1.0rem;
+        line-height: 25px;
+    }
+
+    .prsnllife {
+        height: 700px;
+    }
+
+    .outro h1 {
+        font-size: 27px;
+    }
+
+    .outro .secondryp {
+        top: 17px;
+        font-size: 1.0rem;
+        line-height: 25px;
+    }
+
+    #img2 img {
+        height: 222px;
+    }
+
+    #img2 p {
+        top: -34px;
+        font-size: 11px;
+    }
+
+    .outro {
+        height: 2143px;
+    }
+
+    .books h1 {
+        font-size: 25px;
+        text-underline-offset: 4px;
+        padding-left: 64px;
+        padding-right: 64px;
+        line-height: 35px;
+
+    }
+
+    .books ol {
+        height: 1060px;
+    }
+
+    .books ol li {
+        top: 30px;
+        font-size: 1.0rem;
+        line-height: 24px;
+    }
+
+    .download p {
+        top: -93px;
+        font-size: 1.0rem;
+        line-height: 23px;
+    }
+
+    #backimg {
+        width: 70%;
+        top: 317px;
+        padding-left: 50px;
+        padding-right: 50px;
+        flex-direction: column;
+
+    }
+
+    #btn22 {
+        flex-direction: column;
+        height: 0px;
+        width: 100%;
+    }
+
+    #btn22 .btn22-1 {
+        position: relative;
+        bottom: 69px;
+        right: 11px;
+    }
+
+    #btn22 .btn22-2 {
+        position: relative;
+        top: 223px;
+        right: 11px;
+    }
+
+    #btn22 .btn22-3 {
+        position: relative;
+        top: 518px;
+        right: 11px;
+    }
+
+
+    #btn22 div button a {
+        display: block;
+        width: 60%;
+        margin: 27px auto;
+        padding: 6px 19px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        border-radius: 11px;
+        font-size: 1.0rem;
+    }
+
+
+    .books {
+        height: 2514px;
+    }
+
+    #quote {
+        position: relative;
+        top: 818px;
+    }
+
+    #quote p:last-child {
+        top: -53px;
+    }
+
+    marquee {
+        font-size: 1.0rem;
+        height: 43px;
+    }
+
+    #footr {
+        height: 115px;
+    }
+
+}
+
+
+@media only screen and (max-width: 404px) {
+
+    .about h1 {
+        font-size: 1.3rem;
+    }
+
+    .about p {
+        font-size: 0.88rem;
+    }
+
+    .aboutlife h1 {
+        font-size: 1.3rem;
+    }
+
+    .aboutlife p {
+        font-size: 0.88rem;
+    }
+
+    .aboutlife {
+        height: 2331px;
+    }
+
+    .awards h1 {
+        font-size: 1.3rem;
+    }
+
+    .awards p {
+        font-size: 0.88rem;
+    }
+
+    .awards {
+        height: 2780px;
+    }
+
+    .prsnllife h1 {
+        font-size: 1.3rem;
+    }
+
+    .prsnllife p {
+        font-size: 0.88rem;
+    }
+
+    .prsnllife {
+        height: 835px;
+    }
+
+    .outro h1 {
+        font-size: 1.3rem;
+    }
+
+    .outro .secondryp {
+        font-size: 0.88rem;
+        top: -6px;
+    }
+
+    .outro {
+        height: 2555px;
+    }
+
+    .books h1 {
+        font-size: 1.3rem;
+    }
+
+    .books ol {
+        height: 1264px;
+    }
+
+    .books {
+        height: 2656px;
+    }
+
+    #footr {
+        height: 165px;
+    }
+
+
+}
+
+@media only screen and (max-width: 360px) {
+    .about {
+        height: 1328px;
+    }
+
+    .aboutlife {
+        height: 2380px;
+    }
+
+    .outro {
+        height: 2670px;
+    }
+
+    .books ol {
+        height: 1359px;
+    }
+
+    .books {
+        height: 2738px;
+    }
+    #btn22 .btn22-1 {
+        position: relative;
+        bottom: 43px;
+    }
+
+    #btn22 .btn22-2 {
+        position: relative;
+        top: 191px;
+    }
+
+    #btn22 .btn22-3 {
+        position: relative;
+        top: 431px;
+    }
+
+}
