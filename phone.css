@@ -18,6 +18,7 @@
         display: block;
         width: 185px;
         top: 20px;
+        left: 116px;
     }
 
     #top1 .p1 {
@@ -64,7 +65,7 @@
     }
 
     .about {
-        height: 1118px;
+        height: 1260px;
     }
 
     .aboutlife h1 {
@@ -81,7 +82,7 @@
     }
 
     .aboutlife {
-        height: 1881px;
+        height: 2230px;
     }
 
     .awards h1 {
@@ -96,7 +97,7 @@
     }
 
     .awards {
-        height: 2614px;
+        height: 2700px;
     }
 
     .table1 {
@@ -115,7 +116,7 @@
     }
 
     .prsnllife {
-        height: 700px;
+        height: 780px;
     }
 
     .outro h1 {
@@ -138,7 +139,7 @@
     }
 
     .outro {
-        height: 2143px;
+        height: 2500px;
     }
 
     .books h1 {
@@ -161,7 +162,7 @@
     }
 
     .download p {
-        top: -93px;
+        top: 10px;
         font-size: 1.0rem;
         line-height: 23px;
     }
@@ -218,11 +219,11 @@
 
     #quote {
         position: relative;
-        top: 818px;
+        top: 618px;
     }
 
     #quote p:last-child {
-        top: -53px;
+        top: 35px;
     }
 
     marquee {
@@ -231,7 +232,7 @@
     }
 
     #footr {
-        height: 115px;
+        height: 354px;
     }
 
 }
